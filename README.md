@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Srusha Gedam</h1>
+<h1 align="center">Hi 👋, I'm Srush Gedam</h1>
 <h3 align="center">Hello! I'm Srusha Gedam, an aspiring Cloud Engineer building expertise in scalable infrastructure and automation. I leverage my strong analytical background in Python and SQL to design robust, cost-effective cloud solutions.</h3>
 
 - 🔭 I’m currently working on **PowerBI Dashboard project.**
